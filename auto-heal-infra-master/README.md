@@ -1,4 +1,4 @@
-# Auto-Heal Infrastructure on AWS
+ Auto-Heal Infrastructure on AWS
 
 A comprehensive, self-healing AWS infrastructure solution that automatically detects and remediates unhealthy EC2 instances and services. Built with Terraform, Nagios, Grafana, AWS Lambda, and CloudWatch.
 
